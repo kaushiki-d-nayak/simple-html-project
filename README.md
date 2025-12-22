@@ -1,2 +1,2 @@
 # simple-html-project
-simple css project
+made with html and css
